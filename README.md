@@ -1,4 +1,5 @@
 TemplateMetaProgramming
 =======================
 
-C++ Template Meta Programming Book Example
+C++ Template Meta Programming Book Example and Practices
+
